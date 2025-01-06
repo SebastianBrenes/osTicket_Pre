@@ -90,10 +90,13 @@ This guide provides a step-by-step walkthrough for setting up osTicket, a powerf
 <p align="center">
 <img src="https://i.imgur.com/iB0DDRd.png" height="75%" width="100%"/>
 </p>
+<p align="center">
+<img src="https://i.imgur.com/1RmIXB7.png" height="75%" width="100%"/>
+</p>
 
 ### Step 3: Install PHP Manager and Rewrite Module
 
-- Download and install the **PHP Manager** and **Rewrite Module**.
+- Download and install the **PHP Manager** and **Rewrite Module**. You can find the files used on [here](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) 📁
 
 <p align="center">
 <img src="https://i.imgur.com/pmwpPEu.png" height="75%" width="100%"/>
