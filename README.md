@@ -99,17 +99,25 @@ This guide provides a step-by-step walkthrough for setting up osTicket, a powerf
 - Download and install the **PHP Manager** and **Rewrite Module**. You can find the files used on [here](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) 📁
 
 <p align="center">
-<img src="https://i.imgur.com/pmwpPEu.png" height="75%" width="100%"/>
+<img src="https://i.imgur.com/3z1QIKm.png" height="75%" width="100%"/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/OxGLdQW.png" height="75%" width="100%"/>
 </p>
 
 ### Step 4: Configure PHP
 
 - **Create PHP Directory**:
   - Create a folder `C:\PHP`.
+
+<p align="center">
+<img src="https://i.imgur.com/Pd0tJRO.png" height="75%" width="100%"/>
+</p>
+
   - Download and extract the `php-7.3.8-nts-Win32-VC15-x86.zip` file into `C:\PHP`.
 
 <p align="center">
-<img src="https://i.imgur.com/18746085-a3cf-4f1f-b0d5-5cd73f969319.png" height="75%" width="100%"/>
+<img src="https://i.imgur.com/TYfYbUO.png" height="75%" width="100%"/>
 </p>
 
 - **Install VC Redistributable**:
