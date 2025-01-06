@@ -65,19 +65,21 @@ This guide provides a step-by-step walkthrough for setting up osTicket, a powerf
 
 - **Create Resource Group and VM**:
   - In Azure, create a Resource Group.
-  - Set up a Windows 10 VM with 2-4 virtual CPUs and a new Virtual Network (Vnet).
-  - Note down the username and password for RDP access.
 
 <p align="center">
 <img src="https://i.imgur.com/eBi5k2l.png" height="75%" width="100%"/>
 </p>
 
-- **Connect via Remote Desktop**:
-  - Use the Remote Desktop Connection app to log into your Azure VM.
+- **Create a VM on Azure**:
+  - Set up a Windows 10 VM with 2-4 virtual CPUs and a new Virtual Network (Vnet).
+  - Note down the username and password for RDP access.
 
 <p align="center">
 <img src="https://i.imgur.com/dEF1c7h.png" height="75%" width="100%"/>
 </p>
+
+- **Connect via Remote Desktop**:
+  - Use the Remote Desktop Connection app to log into your Azure VM.
 
 ### Step 2: Enable IIS
 
