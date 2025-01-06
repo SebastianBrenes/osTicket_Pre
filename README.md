@@ -124,7 +124,7 @@ This guide provides a step-by-step walkthrough for setting up osTicket, a powerf
   - Download and install **VC_Redist**.
 
 <p align="center">
-<img src="https://i.imgur.com/Gx8ryBV.png" height="75%" width="100%"/>
+<img src="https://i.imgur.com/iFhX1LB.png" height="75%" width="100%"/>
 </p>
 
 ### Step 5: Install MySQL and HeidiSQL
@@ -133,10 +133,14 @@ This guide provides a step-by-step walkthrough for setting up osTicket, a powerf
   - Set up a username and password for database access.
 
 <p align="center">
-<img src="https://i.imgur.com/IVpLg40.png" height="75%" width="100%"/>
+<img src="https://i.imgur.com/XJBBU8x.png" height="75%" width="100%"/>
 </p>
 
 - Install **HeidiSQL** and create a new database named `osTicket`.
+
+<p align="center">
+<img src="https://i.imgur.com/CuOp4jn.png" height="75%" width="100%"/>
+</p>
 
 <p align="center">
 <img src="https://i.imgur.com/vXzmQqg.png" height="75%" width="100%"/>
@@ -199,7 +203,7 @@ This guide provides a step-by-step walkthrough for setting up osTicket, a powerf
 - Log in to the osTicket Admin Panel: `http://localhost/osTicket/scp/login.php`.
 
 <p align="center">
-<img src="https://i.imgur.com/8wvWH0H.jpg" height="75%" width="100%"/>
+<img src="https://i.imgur.com/9Dpw4tY.png" height="75%" width="100%"/>
 </p>
 
 ---
